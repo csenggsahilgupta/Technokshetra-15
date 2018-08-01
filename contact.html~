@@ -1,0 +1,43 @@
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>TECHNOKSHETRA-15</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <LINK HREF="newcss.css" rel="stylesheet" type="text/css">
+    </head>
+    <body> 
+      <DIV id="header"><center><img src="LINGAYAS.jpg" height="65" width="65"></center>
+    
+       
+           
+            <center>
+                <br> <table><TR>
+                        <td></td><td><center><b ID="LING" >&nbsp; Lingaya's GVKS Institute of  Management & Technology, Faridabad</b></center><br><center><b ID="ORG">Organize</b></center><br><center><b ID="TECHNO">TechnoKshetra-15</b></center></td></tr>
+                </table>
+                     
+                     <B ID="GREEN"> &nbsp; Green Energy and Swachh Environment</B>
+               </center>
+            <br><br> <DIV ID="LINK" class="a">
+                <center> <table ><tr><td>&nbsp;&nbsp;&nbsp;<a href="newhtml.html" ><B >Home</B></a><td class="dd">&nbsp;&nbsp;&nbsp;<B>About us</B>
+                                  <ul><li><a href="collage.html" ><B>About LGVKSIMT</B></a></li><li><a href="techno.html" ><B>About TechnoKshetra</B></a></li></ul> </td><td class="dd">&nbsp;&nbsp;&nbsp;<B>Event Details</B>
+                                    <ul><li><a href="ROB.html" ><B>Robotics</B></a></li><li><a href="code.html" ><B>Coding competition</B></a></li><li><a href="res.html" ><B>Research</B></a></li><li><a href="game.html" ><B>Gaming & Animation</B></a></li><li><a href="quiz.html" ><B>Debate & quiz</B></a></li><li><a href="other.html" ><B>other</B></a></li></ul></td><td>&nbsp;&nbsp;&nbsp;<a href="WOKSHOP.html" ><B> Workshops</B></a></td><!--<td>&nbsp;&nbsp;&nbsp;
+                                                         <a href="#" ><B>Registration</B></a></td>--><td>&nbsp;&nbsp;&nbsp;<a href="contact.html" ><B CLASS="SEL">Contact us</B></a></td></tr></table></center></div>
+           </div><br><br><br><br><br><br><br><br><br><br>
+          <center> <div>
+                  <p style="font-size:25px;"><b style="font-size:35px;">TechnoKshetra-15:</b>contact information</p>
+                  
+                      <table><tr><td><b>Campus:</b></td><td> <b><U>Lingaya's G.V.K.S Institute of Management & Technology</U></b>
+                          <BR><b>Kanwara,Old Faridabad-Jasana Road.Faridabad-121002</b></td></tr></table>
+              </div></center>
+    <center>  <table><tr ><td colspan="2"><b><center>Coordinators</center></b></td></tr><tr><td> <b>Dr.Anubhav Kumar</b></td><td><b> Mr. Jaswant Singh</b></td></tr>
+            <tr><td><b>8860945440</b></td><td><b>8447131291</b></td></tr>
+                          <BR><b>Kanwara,Old Faridabad-Jasana Road.Faridabad-121002</b></td></tr></table><!--<img src="lingayas-build.jpg" height="300" width="300">-->
+        <BR><H1>Tel. : +91-129-2599517/18</h1>
+        <h1><A href="http://www.lgimt.org/lingayas/"><b>Collage Web site:</b>www.lgimt.org</a></H1>
+    </center>
+    </body>
+</html>

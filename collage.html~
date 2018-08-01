@@ -1,0 +1,33 @@
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>TECHNOKSHETRA-15</title>
+         <LINK HREF="newcss.css" rel="stylesheet" type="text/css">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    </head>
+    <body>  <DIV id="header"><center><img src="LINGAYAS.jpg" height="65" width="65"></center>
+    
+       
+           
+            <center>
+                <br> <table><TR>
+                        <td></td><td><center><b ID="LING" >&nbsp; Lingaya's GVKS Institute of  Management & Technology, Faridabad</b></center><br><center><b ID="ORG">Organize</b></center><br><center><b ID="TECHNO">TechnoKshetra-15</b></center></td></tr>
+                </table>
+                     
+                     <B ID="GREEN"> &nbsp; Green Energy and Swachh Environment</B>
+               </center>
+            <br><br> <DIV ID="LINK" class="a">
+                <center> <table ><tr><td>&nbsp;&nbsp;&nbsp;<a href="newhtml.html" ><B >Home</B></a><td class="dd">&nbsp;&nbsp;&nbsp;<B CLASS="SEL" >About us</B>
+                                  <ul><li><a href="collage.html" ><B>About LGVKSIMT</B></a></li><li><a href="techno.html" ><B>About TechnoKshetra</B></a></li></ul> </td><td class="dd">&nbsp;&nbsp;&nbsp;<B >Event Details</B>
+                                    <ul><li><a href="ROB.html" ><B>Robotics</B></a></li><li><a href="code.html" ><B>Coding competition</B></a></li><li><a href="res.html" ><B>Research</B></a></li><li><a href="game.html" ><B>Gaming & Animation</B></a></li><li><a href="quiz.html" ><B>Debate & quiz</B></a></li><li><a href="other.html" ><B>other</B></a></li></ul></td><td>&nbsp;&nbsp;&nbsp;<a href="WOKSHOP.html" ><B> Workshops</B></a></td><!--<td>&nbsp;&nbsp;&nbsp;
+                                                         <a href="#" ><B>Registration</B></a></td>--><td>&nbsp;&nbsp;&nbsp;<a href="contact.html" ><B>Contact us</B></a></td></tr></table></center></div>
+           </div><br><br><br><br><br><BR><br><br><br><br><br><br><br><br>
+           <center><img src="lingayas-build.jpg" height="400" width="400" /><br> <b>Lingaya's GVKS Institute of  Management & Technology</b><br> <div style="width: 800px; text-align: left"><p>L.G.V.K.S institute was build in the memory of great freedom fighter Late Shri. Gadde Lingaya  &  shri G.V.K. Sinha Gadde who sacrificed his life at the altar of freedom of his motherland.Our collage is affiliated with MDU, which is a bonus factor for our institute .Lingaya’s Institute of Management & Technology for Women (LIMATW) was established in 2008 by “Lingaya’s Jankalyan Shikshan Sanstha”. LIMATW has now been converted into a Co-Ed Institute w.e.f. 2012 in the name & style of Lingaya’s GVKS Institute of Management & Technology.ince its very foundations are based on the dreams of a noble visionary son of India, its singular objective and mission is to facilitate and to promote studies, research and extension work with a focus on professional education in the emerging areas in the disciplines of engineering, technology, management, computer sciences, etc and also to achieve excellence in these and related fields, thereby to equip the students to become effective professionals with career prospects to meet the emerging global and industrial needs of the society and nation in the 21st Century.
+      Our cources offers B.TECH program for  ECE, CS, MECHNAICAL , CIVIL </p> </div></center> 
+        
+    </body>
+</html>

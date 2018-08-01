@@ -1,0 +1,34 @@
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>TECHNOKSHETRA-15</title>
+         <LINK HREF="newcss.css" rel="stylesheet" type="text/css">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    </head>
+    <body>  <DIV id="header"><center><img src="LINGAYAS.jpg" height="65" width="65"></center>
+    
+       
+           
+            <center>
+                <br> <table><TR>
+                        <td></td><td><center><b ID="LING" >&nbsp; Lingaya's GVKS Institute of  Management & Technology, Faridabad</b></center><br><center><b ID="ORG">Organize</b></center><br><center><b ID="TECHNO">TechnoKshetra-15</b></center></td></tr>
+                </table>
+                     
+                     <B ID="GREEN"> &nbsp; Green Energy and Swachh Environment</B>
+               </center>
+            <br><br> <DIV ID="LINK" class="a">
+                <center> <table ><tr><td>&nbsp;&nbsp;&nbsp;<a href="newhtml.html" ><B >Home</B></a><td class="dd">&nbsp;&nbsp;&nbsp;<B CLASS="SEL" >About us</B>
+                                  <ul><li><a href="collage.html" ><B>About LGVKSIMT</B></a></li><li><a href="techno.html" ><B>About TechnoKshetra</B></a></li></ul> </td><td class="dd">&nbsp;&nbsp;&nbsp;<B >Event Details</B>
+                                    <ul><li><a href="ROB.html" ><B>Robotics</B></a></li><li><a href="code.html" ><B>Coding competition</B></a></li><li><a href="res.html" ><B>Research</B></a></li><li><a href="game.html" ><B>Gaming & Animation</B></a></li><li><a href="quiz.html" ><B>Debate & quiz</B></a></li><li><a href="other.html" ><B>other</B></a></li></ul></td><td>&nbsp;&nbsp;&nbsp;<a href="WOKSHOP.html" ><B> Workshops</B></a></td><!--<td>&nbsp;&nbsp;&nbsp;
+                                                         <a href="#" ><B>Registration</B></a></td>--><td>&nbsp;&nbsp;&nbsp;<a href="contact.html" ><B>Contact us</B></a></td></tr></table></center></div>
+           </div><br><br><br><br><br><BR><br><br><br><br><br><br><br><br><center>
+        <div style="width: 800px; text-align: left">Seeing the popularity and crowd of lingaya’s zest .We had separated techfest as Technokshetra  .So this our first time that L.G.V.K.S.I.M.T (Lingaya's GVKS Institute of  Management & Technology)had organised a huge stage a platform to show your technical skills.After the grand success of green Olympia and technitiate 2012,13. Here comes technoshtra another  future show.<br><br>
+Techfest is the annual science and technology festival  . It also refers to the independent body of students who organize this event along with many other social initiatives and outreach programs round the year. Techfest is known for  variety of events that  promote technology in form of competitions, exhibitions, lectures as well as workshops. Which help in enabling the technical growth of the students. The practical skills, the mental ability, the power of knowledge is judged an raised through the help of these programs</div>
+    </center>   
+     
+    </body>
+</html>

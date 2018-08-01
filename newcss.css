@@ -1,0 +1,97 @@
+big
+{
+    text-align: center;
+}
+#header,#footer
+{
+  
+  /*  background-image: url("technology-wallpaper-1080p.jpg");*/
+   padding:-20px;
+    color:  #ffffff;
+          background-attachment:fixed;
+}
+#header table{ padding: 0px;
+    margin: 0px;} 
+#header tr{ padding: 0px;
+    margin: 0px;}
+#header td{ padding: 0px;
+    margin: 0px;}
+body
+{     background-image: url("p4.jpg");
+
+          padding:0px;
+          
+
+      color: #ffffff;
+       
+     
+}
+b
+{
+    font-size:30px;
+}
+p {
+
+    font-size: 25px;
+    
+}
+a
+{
+   color: #ffffff; 
+}
+a:hover
+{
+    color: #db4504   
+}
+table,td,tr
+{
+    padding: 10px;
+    margin:10px;
+}
+ .dd ul {
+     display: none;}
+  
+.dd:hover ul {
+    display: block; position: absolute;}
+.dd ul{
+    background-color:#330033
+}
+   ul {list-style: none;padding: 0px;margin: 0px;}
+   #LING{color: #ffff00;font-size:40px;text-align:center;}
+#ORG { font-size:30px;color:#ffffff; text-align: center;}
+#TECHNO{font-size:45px;color:#fffffF}
+#GREEN{
+   color:  #00ff00;font-size:45px;
+}
+.SEL
+{
+    color:#330033;
+   background-color: #ffff00    
+}
+#LINK ul b
+{
+  font-size:26px;  
+}
+ #hs
+{
+    font-size:25px;
+     color: #ffff00
+}
+#bookmark  
+{
+   float:right;
+ text-align: center;
+}
+#bookmark  a p
+{
+    color: #000000;
+font-size:20px
+}
+#he
+{
+  font-size:25px;
+     color: #ffff00  }
+#fs
+{
+    color:green;
+}

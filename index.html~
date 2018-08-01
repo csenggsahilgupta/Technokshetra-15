@@ -1,0 +1,58 @@
+﻿<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>TECHNOKSHETRA-15</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <LINK HREF="newcss.css" rel="stylesheet" type="text/css">
+        <meta name="description" content="Techfest Of lgvksimt">
+         <meta name="description" content="TechnoKshetra-15">
+          <meta name="keywords" content="robotics,gaming,coding,events,technical,lingaya's,workshop">
+         <LINK HREF="newcss2.css" rel="stylesheet" type="text/css">
+    </head>
+    <body><DIV id="header"><center><img src="LINGAYAS.jpg" height="65" width="65"></center>
+    
+       
+           
+            <center>
+                <br> <table><TR>
+                        <td></td><td><center><b ID="LING" >&nbsp; Lingaya's GVKS Institute of  Management & Technology, Faridabad</b></center><br><center><b ID="ORG">Organize</b></center><br><center><b ID="TECHNO">TechnoKshetra-15</b></center></td></tr>
+                </table>
+                     
+                     <B ID="GREEN"> &nbsp; Green Energy and Swachh Environment</B>
+               </center>
+            <br><br> <DIV ID="LINK" class="a">
+                <center> <table ><tr><td>&nbsp;&nbsp;&nbsp;<a href="newhtml.html" ><B CLASS="SEL">Home</B></a><td class="dd">&nbsp;&nbsp;&nbsp;<B>About us</B>
+                                  <ul><li><a href="collage.html" ><B>About LGVKSIMT</B></a></li><li><a href="techno.html" ><B>About TechnoKshetra</B></a></li></ul> </td><td class="dd">&nbsp;&nbsp;&nbsp;<B>Event Details</B>
+                                    <ul><li><a href="ROB.html" ><B>Robotics</B></a></li><li><a href="code.html" ><B>Coding competition</B></a></li><li><a href="res.html" ><B>Research</B></a></li><li><a href="game.html" ><B>Gaming & Animation</B></a></li><li><a href="quiz.html" ><B>Debate & quiz</B></a></li><li><a href="other.html" ><B>other</B></a></li></ul></td><td>&nbsp;&nbsp;&nbsp;<a href="WOKSHOP.html" ><B> Workshops</B></a></td><!--<td>&nbsp;&nbsp;&nbsp;
+                                                         <a href="#" ><B>Registration</B></a></td>--><td>&nbsp;&nbsp;&nbsp;<a href="contact.html" ><B>Contact us</B></a></td></tr></table></center></div>
+           </div><br><br><br><br><br><br>
+    <center>         
+    <table><tr><td><div style="width:150px "><b> Workshops</b><br><p>CAD Workshop<br>Software manual- testing Workshop<br> Solar Energy- Workshop<br>3D Animation- Workshop<br><br><br><br><br><br><br><br></p>                                 
+</div></td>
+            <td><center>   <div><TABLE>
+         <tr><td colspan="2"><p >TechnoKshetra -15 is a Technical Fest organized by Lingaya’s GVKS Institute of Management and Technology, FARIDABAD </p></td></tr>           
+         
+        
+    
+        
+         <TR><TD><b class="a"> Event Dates:</b></TD><td><p > &nbsp; <u> 25,26 Feb 2015</u></p></td></tr><tr>
+         <td><b class="a" > Event Venue:</b></td><td><p > &nbsp; <u>Collage Campus</u></p></td></tr>
+            <tr><td>  <b class="a">last date of registration:</b></td><td>  <p >&nbsp; <u>24 Feb 2015</u></p></td></tr>
+            <tr><td>   <b class="a" >Last Date Paper presentation & <br>Project Expo Abstract Submission:</b></td><td>  <p>&nbsp; <u> 15 Feb 2015</u></p></td></tr></table></div></center> </td>   
+            <td><div style="width:150px "><b class="a">Events </b>
+                    <p> <br>Robo-Race<br>Robo-Making<br>Robo-War<br>Circuit designing<br>Code debugging<br>Game zone<br>3D Character- designing<br>2D Moving- developing<br>Paper Presentation<br>Project Making<br>Panel Discussion - with industrials<br>etc.</p></div></td></tr></table>                                  
+    </center>
+    <DIV ID="footer"><center><table>
+            <tr> <td><img src="images.jpg" height="100" width="300"></td>
+                <td><img src="1.jpg" height="100" width="300"></td>
+            <td><img src="pnw.jpg" height="100" width="300"></td>
+              <td><img src="3d.jpg" height="100" width="300"></td></tr>
+            </table> </center></div>
+        
+    </body>
+</html>
+ 
